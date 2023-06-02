@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to DevContainer - Steve"/>
+  <HelloWorld msg="Welcome to DevContainer"/>
 </template>
 
 <script>
